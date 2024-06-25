@@ -1,6 +1,6 @@
-# WebGL Pyramid Shader Demo
+# WebGL Shaded Pyramid
 
-This project is a demonstration of the power and flexibility of WebGL, laying a foundational understanding for creating complex and lifelike 3D graphics directly in the browser. By starting with a simple pyramid, we explore the fundamental principles of vertex and fragment shaders, essential tools for anyone looking to harness the full potential of WebGL. This project not only showcases a beautiful rendering of a 2D pyramid but also serves as a stepping stone to more intricate and dynamic web-based graphical applications.
+This project is a demonstration of the power and flexibility of WebGL, laying a foundational understanding for creating complex and lifelike 3D graphics directly in the browser. By starting with a simple pyramid, we explore the fundamental principles of vertex and fragment shaders, linear algebra, and vectors—essential tools for harnessing the full potential of WebGL. This introductory project not only showcases a color-detailed rendering of a pyramid shape but also serves as a stepping stone to more intricate and dynamic web-based graphical applications.
 ## Features
 
 - **Vertex Shader**: Processes vertex positions and passes color information.
